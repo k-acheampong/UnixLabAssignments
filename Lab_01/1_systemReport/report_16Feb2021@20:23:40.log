@@ -1,0 +1,8 @@
+HOSTNAME & IP-ADDRESS: 
+ip-172-31-54-51.ec2.internal
+FREE MEMORY USAGE: 
+              total        used        free      shared  buff/cache   available
+Mem:            983          97         545           0         340         746
+Swap:             0           0           0
+NUMBER OF CPU CORES: 
+cpu cores	: 1
